@@ -1,19 +1,7 @@
 ---
 title: "An Exhibit of Many Colors (An Outreach Case Study)"
 date: "2017-10-25"
-author: joshuakitchens
-_wpcom_is_markdown: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1769701703"
-    payload:
-      -
-        id: "105"
-      -
-        id: "101"
-      -
-        id: "182"
+author: "Joshua Kitchens"
 ---
 
 <p>Learning Objectives</p>
