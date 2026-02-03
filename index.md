@@ -1,5 +1,8 @@
 ---
+layout: page
 title: Case Studies
+date: 2026-02-03
+tags: 
 ---
 # Archival Case Studies
 
