@@ -10,5 +10,6 @@ titles_from_headings:
 plugins:
 - jekyll-remote-theme
 
-
+collections:
+  - case-studies
 ---
