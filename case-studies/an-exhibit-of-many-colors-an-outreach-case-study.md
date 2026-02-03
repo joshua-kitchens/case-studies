@@ -2,6 +2,7 @@
 title: "An Exhibit of Many Colors (An Outreach Case Study)"
 date: "2017-10-25"
 author: "Joshua Kitchens"
+collections: case-studies
 ---
 
 ## Learning Objectives
