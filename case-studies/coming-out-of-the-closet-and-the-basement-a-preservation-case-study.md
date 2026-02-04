@@ -2,6 +2,7 @@
 title: "Coming out of the Closet and the Basement (A Preservation Case Study)"
 date: "2018-03-20"
 author: joshuakitchens
+collections: case-studies
 ---
 
 <p>Learning Objectives</p>
