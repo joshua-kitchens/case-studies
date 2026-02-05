@@ -13,7 +13,6 @@ The lecture is dead. Long live the Lecture. I hate the lecture format, and as pa
 
 Here are links to those case studies
 [link](case_studies/)
-[link](case_studies.md)
 
 - [An Exhibit of Many Colors](case_studies/an-exhibit-of-many-colors-an-outreach-case-study.md)
 - [Beam it Up Archivist](case_studies/beam-it-up-archivista-law-case-study.md)
