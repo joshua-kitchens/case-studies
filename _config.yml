@@ -12,7 +12,7 @@ highlighter: rouge
 collections:
   cast_studies:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
   posts:
     output: true
 
