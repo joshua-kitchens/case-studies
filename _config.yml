@@ -1,5 +1,6 @@
 title: joshuakitchens.com
 author: Josh Kitchens
+description: Site for archivists Joshua Kitchens. Includes thoughts, information, and educational casestudies.
 
 navbar-links:
   Vita: vita.md
@@ -9,10 +10,19 @@ markdown: kramdown
 highlighter: rouge
 
 collections:
-  cast-studies:
+  cast_studies:
     output: true
+    permalink: /:collection/:name
   posts:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "case_studies"
+    values:
+      layout: "default"
+      author: "Joshua Kitchens"
 
 remote_theme: pages-themes/cayman@v0.2.0
 
